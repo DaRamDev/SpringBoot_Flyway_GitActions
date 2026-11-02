@@ -348,3 +348,4 @@ docker rmi boot-flyway-app   # 빌드한 앱 이미지 삭제
 - Spring Boot **4.0.6** (08, 08-2와 같은 버전)
 - Spring Boot 4부터 Flyway 자동 설정이 별도 모듈(`spring-boot-flyway`)로 분리되어 `spring-boot-starter-flyway`가 필요합니다.
 - MariaDB 지원은 `flyway-mysql` 모듈에 들어 있습니다 (이름은 mysql이지만 MariaDB도 담당).
+# trigger action
